@@ -47,7 +47,7 @@ Passionate and skilled in Machine Learning, Deep Learning, Artificial Intelligen
 <table><tr><td valign="top" width="50%">
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FardinHash&show_icons=true&theme=gotham" alt="kozistr" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FardinHash&show_icons=true&theme=gotham" alt="FardinHash" />
 
 </td><td valign="top" width="50%">
 
