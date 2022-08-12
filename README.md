@@ -1,5 +1,5 @@
-## Hiii 👋, I'm Fardin.   
-  
+<h1 align="center">Hiii <span> <img src="https://raw.githubusercontent.com/learnwithsumit/learnwithsumit/main/assets/hello.gif" width="25px"></span> , I'm Fardin</h1>
+
 
 <a href="https://linkedin.com/in/fardinpy909" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -12,7 +12,7 @@
 
 
 
-### Welcome Yoo!  
+### Welcome Yoo!
 *I’m a Researcher and Engineer (Computer Science). 
 Passionate and skilled in Machine Learning, Deep Learning, Artificial Intelligence, Natural Language Processing, Neural Network, Human Computer Interaction, Virtual Reality.*  
   
@@ -47,12 +47,12 @@ Passionate and skilled in Machine Learning, Deep Learning, Artificial Intelligen
 <table><tr><td valign="top" width="50%">
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FardinHash&show_icons=true&theme=gotham" alt="FardinHash" />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FardinHash&theme=dark&show_icons=true)
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="100%">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FardinHash&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FardinHash&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -69,7 +69,7 @@ Passionate and skilled in Machine Learning, Deep Learning, Artificial Intelligen
 
 
 ### Listening  
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=zarabvx8tfys9k1y6s6m8gz03&cover_image=true&theme=novatorem&bar_color=b14e4e&bar_color_cover=true" align="center" style="width: 100%" />
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=zarabvx8tfys9k1y6s6m8gz03&cover_image=true&theme=natemoo-re&bar_color=b14e4e&bar_color_cover=true)" align="center" style="width: 100%" />
 <br />
 
 ----
