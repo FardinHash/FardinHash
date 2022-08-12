@@ -47,11 +47,11 @@ Passionate and skilled in Machine Learning, Deep Learning, Artificial Intelligen
 <table><tr><td valign="top" width="50%">
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FardinHash&theme=dark&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FardinHash&theme=gotham&show_icons=true)
 
 </td><td valign="top" width="100%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FardinHash&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FardinHash&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </td></tr></table>  
@@ -69,7 +69,7 @@ Passionate and skilled in Machine Learning, Deep Learning, Artificial Intelligen
 
 
 ### Listening  
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=zarabvx8tfys9k1y6s6m8gz03&cover_image=true&theme=natemoo-re&bar_color=b14e4e&bar_color_cover=true)" align="center" style="width: 100%" />
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=zarabvx8tfys9k1y6s6m8gz03&cover_image=true&theme=natemoo-re&bar_color=b14e4e&bar_color_cover=true" align="center" style="width: 50%" />
 <br />
 
 ----
