@@ -12,7 +12,7 @@
 
 
 
-### Welcome Yoo!
+### Welcome folks!
 *I’m a Researcher and Engineer (Computer Science). 
 Passionate and skilled in Machine Learning, Deep Learning, Artificial Intelligence, Natural Language Processing, Neural Network, Human Computer Interaction, Virtual Reality.*  
   
