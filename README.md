@@ -6,7 +6,10 @@
 </a>
 <a href="https://github.com/FardinHash" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://www.kaggle.com/fardinpy" target="_blank">
+<img src=https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 
