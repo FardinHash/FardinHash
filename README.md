@@ -54,7 +54,7 @@ Passionate and skilled in Machine Learning, Deep Learning, Artificial Intelligen
 
 </td><td valign="top" width="100%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FardinHash&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FardinHash&theme=gotham)
 
 
 </td></tr></table>  
