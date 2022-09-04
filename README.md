@@ -83,4 +83,10 @@ Passionate and skilled in Machine Learning, Deep Learning, Artificial Intelligen
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=zarabvx8tfys9k1y6s6m8gz03&cover_image=true&theme=natemoo-re&bar_color=b14e4e&bar_color_cover=true" align="center" style="width: 50%" />
 <br />
 
-----
+<h1 align="center">
+    <p align="centre">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
+</h1>
+
+
