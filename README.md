@@ -1,4 +1,9 @@
-<h1 align="center">Hiii <span> <img src="https://raw.githubusercontent.com/learnwithsumit/learnwithsumit/main/assets/hello.gif" width="25px"></span> , I'm Fardin</h1>
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=gotham&size=32&center=true&vCenter=true&width=600&height=50&lines=Hiii,+I'm+Fardin+%F0%9F%91%8B;Researcher+and+Engineer;" alt="Headline" />
+    </div>
+<p align="center">
+  <img src="https://github.com/itsdew/Live-in-Action/blob/main/Actions/techstack.gif">
+</p>
 
 
 <a href="https://linkedin.com/in/fardinpy909" target="_blank">
