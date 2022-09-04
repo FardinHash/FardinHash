@@ -66,7 +66,7 @@ Passionate and skilled in Machine Learning, Deep Learning, Artificial Intelligen
 <table align=center>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=FardinHash&theme=gotham&show_icons=true" alt="Wandrys's GitHub Stats" /> </a>
+      <a href="https://github.com/Wandrys-dev/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=FardinHash&show_icons=true&theme=gotham" alt="Fardin's GitHub Stats" /> </a>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FardinHash&theme=gotham" alt="Top Languages" /> </a>
