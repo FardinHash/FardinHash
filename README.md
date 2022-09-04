@@ -1,10 +1,10 @@
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=gotham&size=32&center=true&vCenter=true&width=600&height=50&lines=Hiii,+I'm+Fardin+%F0%9F%91%8B;Researcher+and+Engineer;" alt="Headline" />
     </div>
-<p align="center">
-  <img src="https://github.com/itsdew/Live-in-Action/blob/main/Actions/techstack.gif">
-</p>
+    
+<br/>  
 
+<br/>
 
 <a href="https://linkedin.com/in/fardinpy909" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
