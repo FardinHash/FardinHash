@@ -74,7 +74,7 @@ Passionate and skilled in Machine Learning, Deep Learning, Artificial Intelligen
   </tr>
   <tr>
     <td colspan=2 align="center">
-      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=FardinHash&date_format=j%20M%5B%20Y%5D&theme=gotham" alt="Wandrys's GitHub Readme Streak Stats" /> </a>
+      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=FardinHash&date_format=j%20M%5B%20Y%5D&theme=gotham" alt="Fardin's GitHub Readme Streak Stats" /> </a>
     </td>
   </tr>
 </table>  
