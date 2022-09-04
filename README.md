@@ -1,10 +1,14 @@
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=gotham&size=32&center=true&vCenter=true&width=600&height=50&lines=Hiii,+I'm+Fardin+%F0%9F%91%8B;Researcher+and+Engineer;" alt="Headline" />
     </div>
+
+<h1 align="center">
+    <p align="centre">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
+</h1>
     
 <br/>  
-
-<br/>
 
 <a href="https://linkedin.com/in/fardinpy909" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -88,10 +92,6 @@ Passionate and skilled in Machine Learning, Deep Learning, Artificial Intelligen
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=zarabvx8tfys9k1y6s6m8gz03&cover_image=true&theme=natemoo-re&bar_color=b14e4e&bar_color_cover=true" align="center" style="width: 50%" />
 <br />
 
-<h1 align="center">
-    <p align="centre">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
-</h1>
+---
 
 
