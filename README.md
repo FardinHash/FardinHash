@@ -51,18 +51,23 @@ Passionate and skilled in Machine Learning, Deep Learning, Artificial Intelligen
 <br/>  
 
 
+
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FardinHash&theme=gotham&show_icons=true)
-
-</td><td valign="top" width="100%">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FardinHash&theme=gotham)
-
-
-</td></tr></table>  
+<table align=center>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=FardinHash&theme=gotham&show_icons=true" alt="Wandrys's GitHub Stats" /> </a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FardinHash&theme=gotham" alt="Top Languages" /> </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2 align="center">
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=FardinHash&theme=gotham" alt="Wandrys's GitHub Readme Streak Stats" /> </a>
+    </td>
+  </tr>
+</table>  
 
 <br/>  
 
