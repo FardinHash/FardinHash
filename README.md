@@ -25,6 +25,9 @@
 <a href="https://www.kaggle.com/fardinpy" target="_blank">
 <img src=https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white style="margin-bottom: 5px;" />
 </a>
+<a href="https://www.hackerrank.com/iamfardin1526" target="_blank">
+<img src=https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 
