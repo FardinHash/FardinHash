@@ -28,6 +28,9 @@
 <a href="https://www.leetcode.com/fardinkai" target="_blank">
 <img src=https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black style="margin-bottom: 5px;" />
 </a>
+<a href="https://app.datacamp.com/profile/fardinkai" target="_blank">
+<img src=https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 
