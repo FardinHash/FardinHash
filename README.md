@@ -69,21 +69,16 @@ Passionate and skilled in Machine Learning, Deep Learning, Artificial Intelligen
 
 
 ## Github Stats  
-<table align=center>
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=FardinHash&theme=gotham&show_icons=true" alt="GitHub Stats" /> </a>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FardinHash&theme=gotham" alt="Top Languages" /> </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan=2 align="center">
-      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=FardinHash&date_format=j%20M%5B%20Y%5D&theme=gotham" alt="Fardin's GitHub Readme Streak Stats" /> </a>
-    </td>
-  </tr>
-</table>  
+<div align="center">
+  <img src="https://github-readme-stats-i66v.vercel.app/api/top-langs/?username=FardinHash&langs_count=6&card_width=500&theme=gotham&hide_border=true&layout=compact" alt="Most used languages" /> <br>
+
+  <img src="https://streak-stats.demolab.com?    user=FardinHash&theme=gotham&hide_border=true&border_radius=0&background=000000&" height="180" alt="streaks graph"  />
+
+  <img src="https://github-readme-stats-i66v.vercel.app/api?username=FardinHash&show_icons=true&theme=gotham&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" height="180" alt="stats graph"  />
+</div> <br>
+
+[![FardinHash's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=FardinHash&custom_title=FardinHash's%20GitHub%20Activity%20Graph&theme=gotham&line=2100fa&point=0079fa&area=true&hide_border=true&height="100")](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
 
 <br/>  
 
