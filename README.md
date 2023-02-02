@@ -70,7 +70,7 @@ Passionate and skilled in Machine Learning, Deep Learning, Artificial Intelligen
 
 ## Github Stats  
 <div align="center">
-  <img src="https://github-readme-stats-i66v.vercel.app/api/top-langs/?username=FardinHash&langs_count=6&card_width=500&theme=gotham&hide_border=true&layout=compact" alt="Most used languages" /> <br>
+  <img src="https://github-readme-stats-i66v.vercel.app/api/top-langs/?username=FardinHash&custom_title=FardinHash's%20Used%20Languages&langs_count=6&card_width=500&theme=gotham&hide_border=true&layout=compact" alt="Most used languages" /> <br>
 
   <img src="https://streak-stats.demolab.com?    user=FardinHash&theme=gotham&hide_border=true&border_radius=0&background=000000&" height="150" alt="streaks graph"  />
 
