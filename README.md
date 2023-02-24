@@ -77,7 +77,7 @@ Passionate and skilled in Machine Learning, Deep Learning, Artificial Intelligen
   <img src="https://github-readme-stats-i66v.vercel.app/api?username=FardinHash&custom_title=FardinHash's%20GitHub%20Stats&show_icons=true&theme=gotham&hide_border=true&bg_color=000000&border_radius=0&count_private=true" height="150" alt="stats graph"  />
 </div> <br>
 
-[![FardinHash's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=FardinHash&custom_title=FardinHash's%20GitHub%20Activity%20Graph&theme=gotham&line=2100fa&point=0079fa&area=true&hide_border=true&height="100")](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![FardinHash's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FardinHash&custom_title=FardinHash's%20GitHub%20Activity%20Graph&theme=gotham&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 
 <br/>  
