@@ -37,8 +37,7 @@
 
 
 ### Welcome folks!
-*I’m a Researcher and Engineer (Computer Science). 
-Passionate and skilled in Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Human Computer Interaction, Virtual Reality.*  
+*This is an AI-ML guy who knows and works on Machine Learning | Deep Learning | Natural Language Processing | Computer Vision | Brain-Computer Interface | Cryptography | Music*  
   
 
 
