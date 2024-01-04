@@ -38,6 +38,8 @@
 
 ### Welcome folks!
 *This is an AI-ML guy who knows and works on Machine Learning | Deep Learning | Natural Language Processing | Computer Vision | Brain-Computer Interface | Cryptography | Music*  
+
+<a class="libutton" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7148647221415059456" target="_blank"><b>Subscribe on LinkedIn</b></a>
   
 
 
