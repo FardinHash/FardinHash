@@ -41,7 +41,12 @@
 
 <a class="libutton" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7148647221415059456" target="_blank"><b>Subscribe on LinkedIn</b></a> 
 
-<br/>  
+<br/> 
+<p align="center">
+  <a href="https://fardinkai.me">
+    <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,typescript,docker,azure,gcp,terraform,kali" />
+  </a>
+</p>
  
 
 
