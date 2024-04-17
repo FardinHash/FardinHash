@@ -19,14 +19,14 @@
 <a href="https://linkedin.com/in/fardinkai" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="https://www.leetcode.com/fardinkai" target="_blank">
+<img src=https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black style="margin-bottom: 5px;" />
+</a>
 <a href="https://www.kaggle.com/fardinpy" target="_blank">
 <img src=https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.hackerrank.com/fardinkai" target="_blank">
 <img src=https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.leetcode.com/fardinkai" target="_blank">
-<img src=https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black style="margin-bottom: 5px;" />
 </a>
 <a href="https://app.datacamp.com/profile/fardinkai" target="_blank">
 <img src=https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F style="margin-bottom: 5px;" />
@@ -37,11 +37,20 @@
 
 
 ### Welcome folks!
-*This is an AI-ML guy who knows and works on Machine Learning | Deep Learning | Natural Language Processing | Computer Vision | Brain-Computer Interface | Cryptography | Music*  
+*An AI-ML & Full-stack Engineer who knows & works on Machine Learning | Deep Learning | Natural Language Processing | Computer Vision | Brain Computer Interface | Cryptography | Music*
 
 <a class="libutton" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7148647221415059456" target="_blank"><b>Subscribe on LinkedIn</b></a> 
 
-<br/> 
+## Role expertise:
+- AI-ML
+- Full-stack
+- DevOps
+- Cybersecurity
+- CloudOps
+- Recruitment
+  
+## Tech-stack expertise:
+
 <p align="center">
   <a href="https://fardinkai.me">
     <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,typescript,docker,azure,gcp,terraform,kali,debian" />
@@ -50,7 +59,7 @@
  
 
 
-## Stats in a nutshell
+## Stats in a nutshell:
 
 <div align="center">
         <a href="https://github.com/FardinHash">
