@@ -63,13 +63,14 @@
 
 <div align="center">
         <a href="https://github.com/FardinHash">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FardinHash&custom_title=FardinHash's%20Used%20Languages&langs_count=6&card_width=500&theme=gotham&hide_border=true&layout=compact" alt="Most used languages" /> <br>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FardinHash&custom_title=FardinHash's%20Used%20Languages&langs_count=6&card_width=400&theme=gotham&hide_border=true&layout=compact" alt="Most used languages" /> 
+                <br> -->
   <img src="https://streak-stats.demolab.com?user=FardinHash&theme=gotham&hide_border=true&border_radius=0&background=000000&" height="150" alt="streaks graph"  />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=FardinHash&custom_title=FardinHash's%20GitHub%20Stats&show_icons=true&theme=gotham&hide_border=true&bg_color=000000&border_radius=0&count_private=true" height="150" alt="stats graph"  />
   </a>
 </div> <br>
 
-![FardinHash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FardinHash&custom_title=FardinHash's%20Activity%20a%20Graph&hide_border=true&theme=gotham)
+![FardinHash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FardinHash&custom_title=Activity%20Graph&hide_border=true&theme=gotham)
 
 <br/>  
 
