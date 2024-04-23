@@ -1,14 +1,12 @@
-# Use a lightweight base image; alpine is a good choice
-FROM alpine:latest
+FROM node:alpine
 
-# Install curl and other utilities you might need
-RUN apk add --no-cache curl
+WORKDIR /app
 
-# Set the working directory in the container
-WORKDIR /usr/src/app
+COPY package.json .
+COPY package-lock.json .
 
-# Copy the README.md file into the container at /usr/src/app
-COPY README.md .
+RUN npm install
 
-# Ensure when the container starts, it stays running
-CMD tail -f /dev/null
+COPY . .
+
+CMD ["npm", "start"]
