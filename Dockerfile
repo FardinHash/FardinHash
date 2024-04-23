@@ -1,12 +1,13 @@
-FROM node:alpine
+FROM python:3.9
 
 WORKDIR /app
-
-COPY package.json .
-COPY package-lock.json .
-
-RUN npm install
-
 COPY . .
 
-CMD ["npm", "start"]
+# Install pandoc
+RUN apt-get update && apt-get install -y pandoc
+
+# Convert README.md to HTML
+RUN pandoc -f markdown -t html -o index.html README.md
+
+EXPOSE 80
+CMD ["python", "-m", "http.server", "80"]
