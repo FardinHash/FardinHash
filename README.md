@@ -70,7 +70,7 @@
   </a>
 </div> <br>
 
-![FardinHash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FardinHash&custom_title=Activity%20Graph&hide_border=true&theme=gotham)
+![FardinHash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FardinHash&custom_title=Activity%20Graph&days=50&hide_border=true&theme=gotham)
 
 <br/>  
 
