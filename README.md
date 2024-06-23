@@ -85,10 +85,7 @@
 
 
 ### Listening  
-<a href="https://open.spotify.com/user/zarabvx8tfys9k1y6s6m8gz03" target="_blank">
-<img src=https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white style="margin-bottom: 5px;" />
-</a>
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=zarabvx8tfys9k1y6s6m8gz03&cover_image=true&theme=natemoo-re&bar_color=b14e4e&bar_color_cover=true" align="center" style="width: 50%" />
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zarabvx8tfys9k1y6s6m8gz03&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false)](https://open.spotify.com/user/zarabvx8tfys9k1y6s6m8gz03)
 <br />
 
 ---
