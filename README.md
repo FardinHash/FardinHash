@@ -52,7 +52,7 @@
 ## Tech-stack expertise:
 
 <p align="center">
-  <a href="https://fardinkai.me">
+  <a href="https://fardinkai.dev">
     <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,typescript,docker,azure,gcp,terraform,kali,debian" />
   </a>
 </p>
