@@ -1,16 +1,16 @@
-<div align=center>
+<!-- <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=gotham&size=32&center=true&vCenter=true&width=600&height=50&lines=Hiii,+I'm+Fardin+🍂;Researcher+and+Engineer+(AI-ML);" alt="Headline" />
     </div>
 
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
   </div>
-    
-<br/>
 
 <br/>
 
 <br/>
+
+<br/> -->
 <div align=center>
 <a href="https://linkedin.com/in/fardinkai" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -31,7 +31,7 @@
 
 ### Welcome folks!
 
-_An AI-ML & Full-stack Engineer who knows & works on Machine Learning | Deep Learning | Natural Language Processing | Computer Vision | Brain Computer Interface | Cryptography | Music_
+_This is Fardin, An AI/ML & Full-stack Software Engineer who plays with LLMs | Agentic AI | Machine Learning | Deep Learning | Natural Language Processing | Computer Vision | Brain Computer Interface | Cryptography | Music_
 
 <a class="libutton" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7148647221415059456" target="_blank"><b>Subscribe on LinkedIn</b></a>
 
