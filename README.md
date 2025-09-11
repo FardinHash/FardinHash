@@ -43,7 +43,7 @@ _An AI-ML & Full-stack Engineer who knows & works on Machine Learning | Deep Lea
 <tr>
 <td width="50%">
 
-**🤖 GPT-4o - Open Source ChatGPT Alternative**
+**GPT-4o - Open Source ChatGPT Alternative**
 
 > Open source alternative of ChatGPT-4o with FREE access! Features image captioning, voice-to-text transcription, and conversational AI
 
@@ -57,7 +57,7 @@ _An AI-ML & Full-stack Engineer who knows & works on Machine Learning | Deep Lea
 </td>
 <td width="50%">
 
-**🧠 GenZ - AI Compose Extension**
+**GenZ - AI Compose Extension**
 
 > A privacy-first browser extension that detects text inputs and generates context-aware replies using selectable LLMs (OpenAI, Gemini, Anthropic)
 
@@ -73,7 +73,7 @@ _An AI-ML & Full-stack Engineer who knows & works on Machine Learning | Deep Lea
 <tr>
 <td width="50%">
 
-**📞 AI Calling Agent**
+**AI Calling Agent**
 
 > Real-time voice AI system integrating OpenAI's Realtime API with Twilio Voice for intelligent voice conversations
 
@@ -87,7 +87,7 @@ _An AI-ML & Full-stack Engineer who knows & works on Machine Learning | Deep Lea
 </td>
 <td width="50%">
 
-**🛡️ Safe Web**
+**Safe Web**
 
 > Advanced web security and protection toolkit for modern applications
 
@@ -103,7 +103,7 @@ _An AI-ML & Full-stack Engineer who knows & works on Machine Learning | Deep Lea
 <tr>
 <td width="50%">
 
-**🚗 Bangla License Plate Recognition**
+**Bangla License Plate Recognition**
 
 > EasyOCR-based automatic Bangla license plate recognition system with high accuracy
 
@@ -117,7 +117,7 @@ _An AI-ML & Full-stack Engineer who knows & works on Machine Learning | Deep Lea
 </td>
 <td width="50%">
 
-**🤖 Deep Learning Chatbot**
+**Deep Learning Chatbot**
 
 > Advanced chatbot built with Deep Learning, NLTK, and PyTorch achieving highest accuracy
 
@@ -139,7 +139,7 @@ _An AI-ML & Full-stack Engineer who knows & works on Machine Learning | Deep Lea
 
 </div>
 
-## 📚 Learning Resources & Roadmaps:
+## Learning Resources & Roadmaps:
 
 <div align="center">
 
@@ -147,7 +147,7 @@ _An AI-ML & Full-stack Engineer who knows & works on Machine Learning | Deep Lea
 <tr>
 <td width="50%">
 
-**🐍 Complete Python Roadmap**
+**Complete Python Roadmap**
 
 > Comprehensive Python learning guide with step-by-step modules from basics to advanced topics
 
@@ -161,7 +161,7 @@ _An AI-ML & Full-stack Engineer who knows & works on Machine Learning | Deep Lea
 </td>
 <td width="50%">
 
-**🧠 Machine Learning Roadmap**
+**Machine Learning Roadmap**
 
 > Complete ML learning path with practical examples and real-world applications
 
@@ -177,7 +177,7 @@ _An AI-ML & Full-stack Engineer who knows & works on Machine Learning | Deep Lea
 <tr>
 <td width="50%" colspan="2">
 
-**💻 Learn Programming**
+**Learn Programming**
 
 > Comprehensive programming learning resources and tutorials for beginners to advanced
 
