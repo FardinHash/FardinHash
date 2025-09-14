@@ -85,8 +85,6 @@ _This is Fardin, An AI/ML & Full-stack Software Engineer who plays with LLMs | A
 [![GitHub forks](https://img.shields.io/github/forks/FardinHash/GenZ?style=social&label=Forks)](https://github.com/FardinHash/GenZ/network)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 **AI Calling Agent**
@@ -101,6 +99,8 @@ _This is Fardin, An AI/ML & Full-stack Software Engineer who plays with LLMs | A
 [![GitHub forks](https://img.shields.io/github/forks/FardinHash/ai-calling-agent?style=social&label=Forks)](https://github.com/FardinHash/ai-calling-agent/network)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 **Safe Web**
@@ -115,8 +115,6 @@ _This is Fardin, An AI/ML & Full-stack Software Engineer who plays with LLMs | A
 [![GitHub forks](https://img.shields.io/github/forks/intellwe/safe-web?style=social&label=Forks)](https://github.com/intellwe/safe-web/network)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 **Bangla License Plate Recognition**
