@@ -77,12 +77,12 @@ _This is Fardin, An AI/ML & Full-stack Software Engineer who plays with LLMs | A
 
 <!-- > Real-time voice AI system integrating OpenAI's Realtime API with Twilio Voice for intelligent voice conversations -->
 
-[![AI Calling Agent](https://img.shields.io/badge/AI%20Calling-Voice%20Agent-green?style=for-the-badge&logo=github)](https://github.com/FardinHash/ai-calling-agent)
+[![AI Calling Agent](https://img.shields.io/badge/AI%20Calling-Voice%20Agent-green?style=for-the-badge&logo=github)](https://github.com/intellwe/ai-calling-agent)
 
 **Tech Stack:** `Python` `FastAPI` `OpenAI API` `Twilio` `WebSocket`
 
-[![GitHub stars](https://img.shields.io/github/stars/FardinHash/ai-calling-agent?style=social&label=Stars)](https://github.com/FardinHash/ai-calling-agent/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/FardinHash/ai-calling-agent?style=social&label=Forks)](https://github.com/FardinHash/ai-calling-agent/network)
+[![GitHub stars](https://img.shields.io/github/stars/FardinHash/ai-calling-agent?style=social&label=Stars)](https://github.com/intellwe/ai-calling-agent/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/FardinHash/ai-calling-agent?style=social&label=Forks)](https://github.com/intellwe/ai-calling-agent/network)
 
 </td>
 <td width="50%">
