@@ -45,7 +45,7 @@ _This is Fardin, An AI/ML & Full-stack Software Engineer who plays with LLMs | A
 
 **GPT-4o - Open Source ChatGPT Alternative**
 
-> Open source alternative of ChatGPT-4o with FREE access! Features image captioning, voice-to-text transcription, and conversational AI
+<!-- > Open source alternative of ChatGPT-4o with FREE access! Features image captioning, voice-to-text transcription, and conversational AI -->
 
 [![GPT-4o](https://img.shields.io/badge/GPT--4o-Open%20Source%20ChatGPT-orange?style=for-the-badge&logo=github)](https://github.com/FardinHash/GPT-4o)
 
@@ -59,7 +59,7 @@ _This is Fardin, An AI/ML & Full-stack Software Engineer who plays with LLMs | A
 
 **Wedio AI Studio - Professional AI Media Platform**
 
-> Enterprise-grade AI voice & media platform with transcription, voice cloning, document-to-video conversion, and TTS capabilities
+<!-- > Enterprise-grade AI voice & media platform with transcription, voice cloning, document-to-video conversion, and TTS capabilities -->
 
 [![Wedio AI Studio](https://img.shields.io/badge/Wedio-AI%20Media%20Platform-purple?style=for-the-badge&logo=github)](https://github.com/intellwe/wedio)
 
@@ -73,23 +73,9 @@ _This is Fardin, An AI/ML & Full-stack Software Engineer who plays with LLMs | A
 <tr>
 <td width="50%">
 
-**GenZ - AI Compose Extension**
-
-> A privacy-first browser extension that detects text inputs and generates context-aware replies using selectable LLMs (OpenAI, Gemini, Anthropic)
-
-[![GenZ](https://img.shields.io/badge/GenZ-AI%20Compose-blue?style=for-the-badge&logo=github)](https://github.com/FardinHash/GenZ)
-
-**Tech Stack:** `TypeScript` `Python` `FastAPI` `Next.js` `Chrome Extension`
-
-[![GitHub stars](https://img.shields.io/github/stars/FardinHash/GenZ?style=social&label=Stars)](https://github.com/FardinHash/GenZ/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/FardinHash/GenZ?style=social&label=Forks)](https://github.com/FardinHash/GenZ/network)
-
-</td>
-<td width="50%">
-
 **AI Calling Agent**
 
-> Real-time voice AI system integrating OpenAI's Realtime API with Twilio Voice for intelligent voice conversations
+<!-- > Real-time voice AI system integrating OpenAI's Realtime API with Twilio Voice for intelligent voice conversations -->
 
 [![AI Calling Agent](https://img.shields.io/badge/AI%20Calling-Voice%20Agent-green?style=for-the-badge&logo=github)](https://github.com/FardinHash/ai-calling-agent)
 
@@ -99,13 +85,27 @@ _This is Fardin, An AI/ML & Full-stack Software Engineer who plays with LLMs | A
 [![GitHub forks](https://img.shields.io/github/forks/FardinHash/ai-calling-agent?style=social&label=Forks)](https://github.com/FardinHash/ai-calling-agent/network)
 
 </td>
+<td width="50%">
+
+**GenZ - AI Compose Extension**
+
+<!-- > A privacy-first browser extension that detects text inputs and generates context-aware replies using selectable LLMs (OpenAI, Gemini, Anthropic) -->
+
+[![GenZ](https://img.shields.io/badge/GenZ-AI%20Compose-blue?style=for-the-badge&logo=github)](https://github.com/FardinHash/GenZ)
+
+**Tech Stack:** `TypeScript` `Python` `FastAPI` `Next.js` `Browser Extension`
+
+[![GitHub stars](https://img.shields.io/github/stars/FardinHash/GenZ?style=social&label=Stars)](https://github.com/FardinHash/GenZ/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/FardinHash/GenZ?style=social&label=Forks)](https://github.com/FardinHash/GenZ/network)
+
+</td>
 </tr>
 <tr>
 <td width="50%">
 
 **Safe Web**
 
-> Advanced web security and protection toolkit for modern applications
+<!-- > Advanced web security and protection toolkit for modern applications -->
 
 [![Safe Web](https://img.shields.io/badge/Safe%20Web-Security%20Toolkit-red?style=for-the-badge&logo=github)](https://github.com/intellwe/safe-web)
 
@@ -119,7 +119,7 @@ _This is Fardin, An AI/ML & Full-stack Software Engineer who plays with LLMs | A
 
 **Bangla License Plate Recognition**
 
-> EasyOCR-based automatic Bangla license plate recognition system with high accuracy
+<!-- > EasyOCR-based automatic Bangla license plate recognition system with high accuracy -->
 
 [![License Plate Recognition](https://img.shields.io/badge/License%20Plate-OCR%20Recognition-yellow?style=for-the-badge&logo=github)](https://github.com/FardinHash/EasyOCR-based-Automatic-Bangla-License-Plate-Recognition)
 
@@ -135,7 +135,7 @@ _This is Fardin, An AI/ML & Full-stack Software Engineer who plays with LLMs | A
 
 **Deep Learning Chatbot**
 
-> Advanced chatbot built with Deep Learning, NLTK, and PyTorch achieving highest accuracy
+<!-- > Advanced chatbot built with Deep Learning, NLTK, and PyTorch achieving highest accuracy -->
 
 [![Deep Learning Chatbot](https://img.shields.io/badge/Deep%20Learning-Chatbot%20NLP-teal?style=for-the-badge&logo=github)](https://github.com/FardinHash/Chatbot-Deep-Learning)
 
@@ -208,22 +208,13 @@ _This is Fardin, An AI/ML & Full-stack Software Engineer who plays with LLMs | A
 
 </div>
 
-## Role expertise:
-
-- AI-ML
-- Full-stack
-- DevOps
-- Cybersecurity
-- CloudOps
-- Recruitment
-
-## Tech-stack expertise:
+<!-- ## Tech-stack expertise:
 
 <p align="center">
   <a href="https://fardinkai.dev">
     <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,typescript,docker,azure,gcp,terraform,kali,debian" />
   </a>
-</p>
+</p> -->
 
 ## Stats in a nutshell:
 
