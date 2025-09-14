@@ -129,6 +129,8 @@ _This is Fardin, An AI/ML & Full-stack Software Engineer who plays with LLMs | A
 [![GitHub forks](https://img.shields.io/github/forks/FardinHash/EasyOCR-based-Automatic-Bangla-License-Plate-Recognition?style=social&label=Forks)](https://github.com/FardinHash/EasyOCR-based-Automatic-Bangla-License-Plate-Recognition/network)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 **Deep Learning Chatbot**
@@ -143,9 +145,7 @@ _This is Fardin, An AI/ML & Full-stack Software Engineer who plays with LLMs | A
 [![GitHub forks](https://img.shields.io/github/forks/FardinHash/Chatbot-Deep-Learning?style=social&label=Forks)](https://github.com/FardinHash/Chatbot-Deep-Learning/network)
 
 </td>
-</tr>
-<tr>
-<td width="50%" colspan="2">
+<td width="50%">
 
 </td>
 </tr>
