@@ -57,6 +57,22 @@ _This is Fardin, An AI/ML & Full-stack Software Engineer who plays with LLMs | A
 </td>
 <td width="50%">
 
+**Wedio AI Studio - Professional AI Media Platform**
+
+> Enterprise-grade AI voice & media platform with transcription, voice cloning, document-to-video conversion, and TTS capabilities
+
+[![Wedio AI Studio](https://img.shields.io/badge/Wedio-AI%20Media%20Platform-purple?style=for-the-badge&logo=github)](https://github.com/intellwe/wedio)
+
+**Tech Stack:** `TypeScript` `React` `Firebase` `AI/ML` `Voice Processing`
+
+[![GitHub stars](https://img.shields.io/github/stars/intellwe/wedio?style=social&label=Stars)](https://github.com/intellwe/wedio/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/intellwe/wedio?style=social&label=Forks)](https://github.com/intellwe/wedio/network)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 **GenZ - AI Compose Extension**
 
 > A privacy-first browser extension that detects text inputs and generates context-aware replies using selectable LLMs (OpenAI, Gemini, Anthropic)
