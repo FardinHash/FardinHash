@@ -77,7 +77,7 @@ _This is Fardin, An AI/ML & Full-stack Software Engineer who plays with LLMs | A
 
 <!-- > Real-time voice AI system integrating OpenAI's Realtime API with Twilio Voice for intelligent voice conversations -->
 
-[![AI Calling Agent](https://img.shields.io/badge/AI%20Calling-Voice%20Agent-green?style=for-the-badge&logo=github)](https://github.com/FardinHash/ai-calling-agent)
+[![AI Calling Agent](https://img.shields.io/badge/AI%20Calling-Voice%20Agent-green?style=for-the-badge&logo=github)](https://github.com/intellwe/ai-calling-agent)
 
 **Tech Stack:** `Python` `FastAPI` `OpenAI API` `Twilio` `WebSocket`
 
