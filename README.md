@@ -51,8 +51,8 @@ _This is Fardin, An AI/ML & Full-stack Software Engineer who plays with LLMs | A
 
 **Tech Stack:** `Python` `Hugging Face` `Docker` `AI/ML` `Open Source`
 
-[![GitHub stars](https://img.shields.io/github/stars/FardinHash/GPT-4o?style=social&label=Stars)](https://github.com/FardinHash/GPT-4o/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/FardinHash/GPT-4o?style=social&label=Forks)](https://github.com/FardinHash/GPT-4o/network)
+<!-- [![GitHub stars](https://img.shields.io/github/stars/FardinHash/GPT-4o?style=social&label=Stars)](https://github.com/FardinHash/GPT-4o/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/FardinHash/GPT-4o?style=social&label=Forks)](https://github.com/FardinHash/GPT-4o/network) -->
 
 </td>
 <td width="50%">
@@ -65,8 +65,8 @@ _This is Fardin, An AI/ML & Full-stack Software Engineer who plays with LLMs | A
 
 **Tech Stack:** `TypeScript` `React` `Firebase` `AI/ML` `Voice Processing`
 
-[![GitHub stars](https://img.shields.io/github/stars/intellwe/wedio?style=social&label=Stars)](https://github.com/intellwe/wedio/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/intellwe/wedio?style=social&label=Forks)](https://github.com/intellwe/wedio/network)
+<!-- [![GitHub stars](https://img.shields.io/github/stars/intellwe/wedio?style=social&label=Stars)](https://github.com/intellwe/wedio/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/intellwe/wedio?style=social&label=Forks)](https://github.com/intellwe/wedio/network) -->
 
 </td>
 </tr>
@@ -81,8 +81,8 @@ _This is Fardin, An AI/ML & Full-stack Software Engineer who plays with LLMs | A
 
 **Tech Stack:** `Python` `FastAPI` `OpenAI API` `Twilio` `WebSocket`
 
-[![GitHub stars](https://img.shields.io/github/stars/FardinHash/ai-calling-agent?style=social&label=Stars)](https://github.com/FardinHash/ai-calling-agent/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/FardinHash/ai-calling-agent?style=social&label=Forks)](https://github.com/FardinHash/ai-calling-agent/network)
+<!-- [![GitHub stars](https://img.shields.io/github/stars/FardinHash/ai-calling-agent?style=social&label=Stars)](https://github.com/FardinHash/ai-calling-agent/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/FardinHash/ai-calling-agent?style=social&label=Forks)](https://github.com/FardinHash/ai-calling-agent/network) -->
 
 </td>
 <td width="50%">
@@ -95,8 +95,8 @@ _This is Fardin, An AI/ML & Full-stack Software Engineer who plays with LLMs | A
 
 **Tech Stack:** `TypeScript` `Python` `FastAPI` `Next.js` `Browser Extension`
 
-[![GitHub stars](https://img.shields.io/github/stars/FardinHash/GenZ?style=social&label=Stars)](https://github.com/FardinHash/GenZ/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/FardinHash/GenZ?style=social&label=Forks)](https://github.com/FardinHash/GenZ/network)
+<!-- [![GitHub stars](https://img.shields.io/github/stars/FardinHash/GenZ?style=social&label=Stars)](https://github.com/FardinHash/GenZ/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/FardinHash/GenZ?style=social&label=Forks)](https://github.com/FardinHash/GenZ/network) -->
 
 </td>
 </tr>
@@ -111,8 +111,8 @@ _This is Fardin, An AI/ML & Full-stack Software Engineer who plays with LLMs | A
 
 **Tech Stack:** `Security` `Web Protection` `Privacy`
 
-[![GitHub stars](https://img.shields.io/github/stars/intellwe/safe-web?style=social&label=Stars)](https://github.com/intellwe/safe-web/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/intellwe/safe-web?style=social&label=Forks)](https://github.com/intellwe/safe-web/network)
+<!-- [![GitHub stars](https://img.shields.io/github/stars/intellwe/safe-web?style=social&label=Stars)](https://github.com/intellwe/safe-web/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/intellwe/safe-web?style=social&label=Forks)](https://github.com/intellwe/safe-web/network) -->
 
 </td>
 <td width="50%">
@@ -125,8 +125,8 @@ _This is Fardin, An AI/ML & Full-stack Software Engineer who plays with LLMs | A
 
 **Tech Stack:** `Python` `EasyOCR` `Computer Vision` `OpenCV` `Bangla NLP`
 
-[![GitHub stars](https://img.shields.io/github/stars/FardinHash/EasyOCR-based-Automatic-Bangla-License-Plate-Recognition?style=social&label=Stars)](https://github.com/FardinHash/EasyOCR-based-Automatic-Bangla-License-Plate-Recognition/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/FardinHash/EasyOCR-based-Automatic-Bangla-License-Plate-Recognition?style=social&label=Forks)](https://github.com/FardinHash/EasyOCR-based-Automatic-Bangla-License-Plate-Recognition/network)
+<!-- [![GitHub stars](https://img.shields.io/github/stars/FardinHash/EasyOCR-based-Automatic-Bangla-License-Plate-Recognition?style=social&label=Stars)](https://github.com/FardinHash/EasyOCR-based-Automatic-Bangla-License-Plate-Recognition/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/FardinHash/EasyOCR-based-Automatic-Bangla-License-Plate-Recognition?style=social&label=Forks)](https://github.com/FardinHash/EasyOCR-based-Automatic-Bangla-License-Plate-Recognition/network) -->
 
 </td>
 </tr>
@@ -141,8 +141,8 @@ _This is Fardin, An AI/ML & Full-stack Software Engineer who plays with LLMs | A
 
 **Tech Stack:** `Python` `PyTorch` `NLTK` `Deep Learning` `NLP`
 
-[![GitHub stars](https://img.shields.io/github/stars/FardinHash/Chatbot-Deep-Learning?style=social&label=Stars)](https://github.com/FardinHash/Chatbot-Deep-Learning/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/FardinHash/Chatbot-Deep-Learning?style=social&label=Forks)](https://github.com/FardinHash/Chatbot-Deep-Learning/network)
+<!-- [![GitHub stars](https://img.shields.io/github/stars/FardinHash/Chatbot-Deep-Learning?style=social&label=Stars)](https://github.com/FardinHash/Chatbot-Deep-Learning/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/FardinHash/Chatbot-Deep-Learning?style=social&label=Forks)](https://github.com/FardinHash/Chatbot-Deep-Learning/network) -->
 
 </td>
 <td width="50%">
@@ -169,8 +169,8 @@ _This is Fardin, An AI/ML & Full-stack Software Engineer who plays with LLMs | A
 
 **Content:** `30 Modules` `OOP` `Web Dev` `Data Analysis` `Deployment`
 
-[![GitHub stars](https://img.shields.io/github/stars/FardinHash/Complete-Python-Roadmap?style=social&label=Stars)](https://github.com/FardinHash/Complete-Python-Roadmap/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/FardinHash/Complete-Python-Roadmap?style=social&label=Forks)](https://github.com/FardinHash/Complete-Python-Roadmap/network)
+<!-- [![GitHub stars](https://img.shields.io/github/stars/FardinHash/Complete-Python-Roadmap?style=social&label=Stars)](https://github.com/FardinHash/Complete-Python-Roadmap/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/FardinHash/Complete-Python-Roadmap?style=social&label=Forks)](https://github.com/FardinHash/Complete-Python-Roadmap/network) -->
 
 </td>
 <td width="50%">
@@ -183,8 +183,8 @@ _This is Fardin, An AI/ML & Full-stack Software Engineer who plays with LLMs | A
 
 **Content:** `ML Algorithms` `Deep Learning` `Projects` `Best Practices`
 
-[![GitHub stars](https://img.shields.io/github/stars/FardinHash/Machine-Learning-Roadmap?style=social&label=Stars)](https://github.com/FardinHash/Machine-Learning-Roadmap/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/FardinHash/Machine-Learning-Roadmap?style=social&label=Forks)](https://github.com/FardinHash/Machine-Learning-Roadmap/network)
+<!-- [![GitHub stars](https://img.shields.io/github/stars/FardinHash/Machine-Learning-Roadmap?style=social&label=Stars)](https://github.com/FardinHash/Machine-Learning-Roadmap/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/FardinHash/Machine-Learning-Roadmap?style=social&label=Forks)](https://github.com/FardinHash/Machine-Learning-Roadmap/network) -->
 
 </td>
 </tr>
@@ -199,8 +199,8 @@ _This is Fardin, An AI/ML & Full-stack Software Engineer who plays with LLMs | A
 
 **Content:** `Multiple Languages` `Tutorials` `Best Practices` `Code Examples`
 
-[![GitHub stars](https://img.shields.io/github/stars/FardinHash/Learn-Programming?style=social&label=Stars)](https://github.com/FardinHash/Learn-Programming/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/FardinHash/Learn-Programming?style=social&label=Forks)](https://github.com/FardinHash/Learn-Programming/network)
+<!-- [![GitHub stars](https://img.shields.io/github/stars/FardinHash/Learn-Programming?style=social&label=Stars)](https://github.com/FardinHash/Learn-Programming/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/FardinHash/Learn-Programming?style=social&label=Forks)](https://github.com/FardinHash/Learn-Programming/network) -->
 
 </td>
 </tr>
