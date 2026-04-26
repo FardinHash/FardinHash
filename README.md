@@ -31,7 +31,9 @@
 
 ### Welcome folks!
 
-_This is Fardin, An AI/ML & Full-stack Software Engineer who plays with LLMs | Agentic AI | Machine Learning | Deep Learning | Natural Language Processing | Computer Vision | Brain Computer Interface | Cryptography | Music_
+_This is Fardin - A Software Architect, Team Lead, AI/ML & Full-stack Software Engineer who plays with LLMs, Software writing, System Designs, Neural Nets, Infras_
+
+_Experience: 5+ years in software engineering across AI/ML, system design, full-stack development, and infrastructure engineering_
 
 <a class="libutton" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7148647221415059456" target="_blank"><b>Subscribe on LinkedIn</b></a>
 
