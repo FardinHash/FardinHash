@@ -35,7 +35,7 @@ _This is Fardin - A Software Architect, Team Lead, AI/ML & Full-stack Software E
 
 _Experience: 5+ years in software engineering across AI/ML, system design, full-stack development, and infrastructure engineering_
 
-<a class="libutton" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7148647221415059456" target="_blank"><b>Subscribe on LinkedIn</b></a>
+<a class="libutton" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7472402687926644737" target="_blank"><b>Subscribe on LinkedIn</b></a>
 
 ## OpenSource Projects:
 
